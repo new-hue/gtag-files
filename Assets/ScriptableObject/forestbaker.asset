@@ -1,0 +1,382 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06b8c9fc2274f8b4298d66a46d8bc0e2, type: 3}
+  m_Name: forestbaker
+  m_EditorClassIdentifier:
+  version: 3252
+  resultType: 0
+  materialsAndUVRects:
+  - material: {fileID: 2100000, guid: 9c72eb0623b7b194cbf72f50c26a517a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2529297
+      y: 0.001953125
+      width: 0.125
+      height: 0.5
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 134517f117992a540b9ff229296eedf4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.5058594
+      width: 0.25
+      height: 0.25
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 4acf75a62c73b0d4a98c9c760ab18e25, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.3798828
+      y: 0.001953125
+      width: 0.125
+      height: 0.5
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 504d2b0f377f390479bbb5783f858449, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.8886719
+      width: 0.25
+      height: 0.0625
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 27bcb4bc9e020f24797df5370b7a2aaf, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.001953125
+      width: 0.25
+      height: 0.5
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a6f5932d9b2a5c4419f9d1dfc61c4a8a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.7597656
+      width: 0.25
+      height: 0.125
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 2dbd97ed7b700f644a6e7d2638a651b7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5068359
+      y: 0.001953125
+      width: 0.25
+      height: 0.25
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 35b17c69d11549940ae250a3bc0abd8e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2529297
+      y: 0.7597656
+      width: 0.125
+      height: 0.125
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 067bb98491be25f448cc70b29eb48457, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2529297
+      y: 0.5058594
+      width: 0.125
+      height: 0.25
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 551c13d28e78b1441a8755f9a11e3025, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.3798828
+      y: 0.5058594
+      width: 0.125
+      height: 0.25
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f40421ae396913947bd958c5e7adfec2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.3798828
+      y: 0.7597656
+      width: 0.0625
+      height: 0.125
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9e949ae2aacc3314d8b666fb20a407a0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5068359
+      y: 0.2558594
+      width: 0.25
+      height: 0.25
+    srcObjName: ForestMeshBaker-mesh-mesh
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  resultMaterials:
+  - combinedMaterial: {fileID: 2100000, guid: 20377df59f014694f8b90fd1371062e4, type: 2}
+    considerMeshUVs: 0
+    sourceMaterials:
+    - {fileID: 2100000, guid: 9c72eb0623b7b194cbf72f50c26a517a, type: 2}
+    - {fileID: 2100000, guid: 134517f117992a540b9ff229296eedf4, type: 2}
+    - {fileID: 2100000, guid: 4acf75a62c73b0d4a98c9c760ab18e25, type: 2}
+    - {fileID: 2100000, guid: 504d2b0f377f390479bbb5783f858449, type: 2}
+    - {fileID: 2100000, guid: 27bcb4bc9e020f24797df5370b7a2aaf, type: 2}
+    - {fileID: 2100000, guid: a6f5932d9b2a5c4419f9d1dfc61c4a8a, type: 2}
+    - {fileID: 2100000, guid: 2dbd97ed7b700f644a6e7d2638a651b7, type: 2}
+    - {fileID: 2100000, guid: 35b17c69d11549940ae250a3bc0abd8e, type: 2}
+    - {fileID: 2100000, guid: 067bb98491be25f448cc70b29eb48457, type: 2}
+    - {fileID: 2100000, guid: 551c13d28e78b1441a8755f9a11e3025, type: 2}
+    - {fileID: 2100000, guid: f40421ae396913947bd958c5e7adfec2, type: 2}
+    - {fileID: 2100000, guid: 9e949ae2aacc3314d8b666fb20a407a0, type: 2}
+  resultMaterialsTexArray: []
+  doMultiMaterial: 0
